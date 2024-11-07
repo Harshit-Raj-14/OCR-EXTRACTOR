@@ -15,7 +15,7 @@
 
 ## 1. Introduction :
 - This project is to implement OCR data extraction, and this project will auto classify and extract useful information from documents.
-- Implemented this project by using libraries - Pytesseract(Runs On Google Optical Character Recognition-OCR), Computer Vision, Regex, PDF2Image, Pytest.
+- Implemented this project by using libraries - Pytesseract(Runs On Google Optical Character Recognition-OCR), Computer Vision, Regex, PDF2Image, LLM, AI.
 - Applied use of LLM as word dictionary to easily recognise words and automatically fix them.
 - At first we use PDF2Image library to convert PDF into image, clean the image with Computer Vision by Adaptive Thresholding Techinique and extract useful data by using Pytesseract(OCR) and regex.
 - This project works well on legal document analysis, medical records processing, or invoice reading (like extracting name, patient details, medicine, diagonosis, legal rules, price tags, amount) and this saves time as it reduces human work and saves time from 10 min to less than a second.
@@ -95,4 +95,4 @@ K. How did injury occur
 ## 8. Notebook
 For all these above trials, used jupyter books and developed the small bits of the functionalities., which can be used later while designing the class.
 
-[Notebooks](https://github.com/Harshit-Raj-14/Medical-Diagnosis-Extraction/blob/main/Notebooks/OCR%20Notebook.ipynb)
+[Notebooks](https://github.com/Harshit-Raj-14/OCR-EXTRACTOR/blob/main/Notebooks/OCR%20Notebook.ipynb)
