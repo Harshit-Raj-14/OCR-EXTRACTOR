@@ -48,3 +48,8 @@ for **pytesseract**:
    - Specific image pre-processing operations can significantly improve OCR results.
    - The choice of OCR model should be influenced by the type of image (organized vs. noisy) and the specific task (receipt, PDF, etc.).
 
+![Screenshot 2024-11-23 at 00-44-15 “Tesseract” vs “Keras-OCR” vs “EasyOCR” by Thanga Sami Medium](https://github.com/user-attachments/assets/782002f6-14d5-4431-b934-ce9d3fc58b82)
+
+<hr>
+
+![Screenshot 2024-11-23 at 00-54-32 Best OCR Models to Extract Text from Images (EasyOCR PyTesseract Idefics2 Claude GPT-4 Gemini) - YouTube](https://github.com/user-attachments/assets/19c046e9-8d27-42e7-b73a-8609088ad85c)
