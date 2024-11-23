@@ -41,7 +41,8 @@ https://github.com/Harshit-Raj-14/OCR-EXTRACTOR/blob/main/demo2.mkv
 
 
 ## Installation
-> cd medical-data-extractor
+- Enter the main project
+> cd MAIN PROJECT - medical-data-extractor
 
 - Install all dependancies from `requirements.txt`
 > pip install -r requirements.txt
